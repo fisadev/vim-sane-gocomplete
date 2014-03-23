@@ -15,7 +15,7 @@ plugin. For example, with Vundle you would add this in your ``.vimrc``:
 
 .. code-block::
 
-    Bundle('fisadev/vim-sane-gocomplete')
+    Bundle 'fisadev/vim-sane-gocomplete'
 
 Then update install/plugins. With Vundle you should run:
 
